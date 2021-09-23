@@ -1,5 +1,5 @@
 -- AFK Kick Time Limit (in seconds)
-secondsUntilKick = 1800
+secondsUntilKick = 900
 
 local group = "user"
 local isLoggedIn = false
